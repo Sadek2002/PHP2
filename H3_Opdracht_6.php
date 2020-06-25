@@ -1,3 +1,5 @@
+<?php
+?>
 <!doctype html>
 <html lang="en">
 <head>
@@ -5,17 +7,22 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Inhoudsopgave</title>
+    <title>Document</title>
 </head>
 <body>
-
-<h1>Inhoudsopgave</h1>
-
-<a href="Hoofdstuk_2.php">Hoofdstuk 2</a>
-
-<br>
-
-<a href="Hoofdstuk3.php">Hoofdstuk 3</a>
-
+<?php
+$leeftijd = 12;
+$bedrag = 10;
+if ($leeftijd > 65) {
+    $bedrag = $bedrag * 0.5;
+}
+if ($leeftijd <= 12) {
+    $bedrag = $bedrag * 0.5;
+}
+if ($leeftijd < 3) {
+    $bedrag = 0;
+}
+echo $bedrag;
+?>
 </body>
 </html>

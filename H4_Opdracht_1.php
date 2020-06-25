@@ -1,3 +1,5 @@
+<?php
+?>
 <!doctype html>
 <html lang="en">
 <head>
@@ -5,17 +7,18 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Inhoudsopgave</title>
+    <title>Document</title>
 </head>
 <body>
+<?php
+$a = 10;
+$b = 1.8;
+$c = 32;
 
-<h1>Inhoudsopgave</h1>
-
-<a href="Hoofdstuk_2.php">Hoofdstuk 2</a>
-
-<br>
-
-<a href="Hoofdstuk3.php">Hoofdstuk 3</a>
-
+function telOp ($a, $b, $c) {
+    $d = $a * $b + $c;
+    return $d;
+}
+?>
 </body>
 </html>

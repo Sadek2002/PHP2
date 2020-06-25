@@ -1,3 +1,5 @@
+<?php
+?>
 <!doctype html>
 <html lang="en">
 <head>
@@ -5,17 +7,16 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Inhoudsopgave</title>
+    <title>Document</title>
 </head>
 <body>
+<?php
+$bomen = array("boom_19.jpg", "boom_69.jpg", "boom56.jpg");
 
-<h1>Inhoudsopgave</h1>
+foreach ($bomen as $boom) {
+    echo "<img src='img/bomen/".$boom."'>";
+}
 
-<a href="Hoofdstuk_2.php">Hoofdstuk 2</a>
-
-<br>
-
-<a href="Hoofdstuk3.php">Hoofdstuk 3</a>
-
+?>
 </body>
 </html>
