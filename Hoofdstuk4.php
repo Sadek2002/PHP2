@@ -9,7 +9,7 @@
 </head>
 <body>
 
-<h1>Hoofdstuk 3</h1>
+<h1>Hoofdstuk 4</h1>
 
 <a href="H4_Opdracht_1.php">Opdracht 1</a>
 
