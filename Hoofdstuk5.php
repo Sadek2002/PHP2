@@ -5,24 +5,22 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Inhoudsopgave</title>
+    <title>Hoofdstuk 3</title>
 </head>
 <body>
 
-<h1>Inhoudsopgave</h1>
+<h1>Hoofdstuk 3</h1>
 
-<a href="Hoofdstuk_2.php">Hoofdstuk 2</a>
-
-<br>
-
-<a href="Hoofdstuk3.php">Hoofdstuk 3</a>
+<a href="H5_Opdracht_1_Formulier.html">Opdracht 1</a>
 
 <br>
 
-<a href="Hoofdstuk4.php">Hoofdstuk 4</a>
+<a href="H5_Opdracht_2_Formulier.html">Opdracht 2</a>
 
 <br>
 
-<a href="">Hoofdstuk 5</a>
-</body>
-</html>
+<a href="H5_Opdracht_3_Formulier.html">Opdracht 3</a>
+
+<br>
+
+<a href="index.php">Terug naar vorige pagina.</a>

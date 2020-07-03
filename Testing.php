@@ -1,25 +1,22 @@
 <?php
 ?>
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
-</head>
-<body>
-<?php
-$a = "hoppelepee";
-$x = 35;
-while($x >= 25) {
-    echo $a;
-    $x--;
-    }
+    <!doctype html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport"
+              content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Document</title>
+    </head>
+    <body>
+    <?php
+function telOp() {
+    $a = 6;
+    $b = 7;
+    $c = $a + $b;
+    echo "a + b = ".$c;
+}
 ?>
-
-</body>
-</html>
-
-
+    </body>
+    </html>

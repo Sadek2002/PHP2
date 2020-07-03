@@ -11,14 +11,14 @@
 </head>
 <body>
 <?php
-$a = 10;
-$b = 1.8;
-$c = 32;
-
-function telOp ($a, $b, $c) {
-    $d = $a * $b + $c;
-    return $d;
+function telOp () {
+    $a = 10;
+    $b = 1.8;
+    $c = 32;
+    $d = ($a * $b) + $c;
+    echo $a. " * " .$b. " + " .$c. " = ".$d;
 }
+telOp();
 ?>
 </body>
 </html>
