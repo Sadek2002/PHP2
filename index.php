@@ -25,5 +25,9 @@
 
 <a href="Hoofdstuk5.php">Hoofdstuk 5</a>
 
+<br>
+
+<a href="Hoofdstuk6.php">Hoofdstuk 6</a>
+
 </body>
 </html>
