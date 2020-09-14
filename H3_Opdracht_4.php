@@ -19,5 +19,8 @@ for($i = 0; $x >=25; $i++) {
 }
 
 ?>
+<br>
+
+<a href="Hoofdstuk_2.php">Terug naar vorige pagina.</a>
 </body>
 </html>

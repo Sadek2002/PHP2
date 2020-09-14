@@ -17,6 +17,10 @@ for ($i = 1; $i<=10 ;$i++) {
     echo "<img src='img/mc/foto".$i.".png'>";
 }
 ?>
+<br>
+
+<a href="Hoofdstuk_2.php">Terug naar vorige pagina.</a>
+
 <img src="img/foto2.png">
 </body>
 </html>

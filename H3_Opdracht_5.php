@@ -31,5 +31,8 @@ for ($i = 1; $i<=9 ;$i++) {
     echo "<img ".$class. "src='img/apen/aap".$i.".jpg'>";
 }
 ?>
+<br>
+
+<a href="Hoofdstuk_2.php">Terug naar vorige pagina.</a>
 </body>
 </html>

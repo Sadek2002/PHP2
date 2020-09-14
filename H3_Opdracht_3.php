@@ -24,5 +24,8 @@ for($i = 0; $i <=8; $i++) {
     echo "*<br>";
 }
 ?>
+<br>
+
+<a href="Hoofdstuk_2.php">Terug naar vorige pagina.</a>
 </body>
 </html>

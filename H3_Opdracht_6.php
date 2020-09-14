@@ -24,5 +24,8 @@ if ($leeftijd < 3) {
 }
 echo $bedrag;
 ?>
+<br>
+
+<a href="Hoofdstuk_2.php">Terug naar vorige pagina.</a>
 </body>
 </html>

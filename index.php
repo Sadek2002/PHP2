@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Inhoudsopgave</title>
 </head>
-<body>
+<body style="background: #FFD700">
 
 <h1>Inhoudsopgave</h1>
 

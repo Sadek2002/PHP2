@@ -18,5 +18,8 @@ foreach ($bomen as $boom) {
 }
 
 ?>
+<br>
+
+<a href="Hoofdstuk_2.php">Terug naar vorige pagina.</a>
 </body>
 </html>

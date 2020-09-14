@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Hoofdstuk 3</title>
 </head>
-<body>
+<body style="background: #FFD700">
 
 <h1>Hoofdstuk 3</h1>
 
